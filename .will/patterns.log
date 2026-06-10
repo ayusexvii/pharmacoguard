@@ -1,0 +1,3 @@
+Wed Jun 10 14:00:55 +04 2026: pytest -v
+Wed Jun 10 14:00:55 +04 2026: src/metabolism.py edited
+Wed Jun 10 14:00:55 +04 2026: pytest --cov
