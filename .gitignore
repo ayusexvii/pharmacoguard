@@ -1,1 +1,15 @@
 .will/
+.will/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.will/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
